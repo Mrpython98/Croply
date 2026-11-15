@@ -1,0 +1,1 @@
+A web application built for the NASA Space Apps Challenge 2026 (Field Shift: Adapting Farms with NASA Data) and RiverHacks 2026. This project uses live NASA climate data and Serp API to generate tailored 3-year crop rotation plans.
