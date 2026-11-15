@@ -1,0 +1,2 @@
+[functions.crop-yield-search]
+verify_jwt = false
